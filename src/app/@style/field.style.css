@@ -1,0 +1,17 @@
+@layer components {
+  .btn-solid {
+    @apply text-center bg-primary-500 px-4 py-2 rounded-[4px] text-white desktop-regular-p lg:p-4 lg:desktop-regular-h6;
+  }
+
+  .btn-outline {
+    @apply text-center border border-primary-500 bg-white px-4 py-2 rounded-[4px] text-primary-500 desktop-regular-p lg:p-4 lg:desktop-regular-h6;
+  }
+
+  .field-label {
+    @apply text-dark-900 desktop-regular-h6;
+  }
+
+  .field-disabled {
+    @apply bg-gray-200 text-gray-500;
+  }
+}

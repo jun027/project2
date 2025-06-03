@@ -1,0 +1,5 @@
+export { default as FuDeGongView } from './fu-de-gong-view'
+export { default as GRSView } from './grs-view'
+export { default as TapioView } from './tapio-view'
+export { default as PuJiTangView } from './pu-ji-tang-view'
+export { default as AnYangCunView } from './an-yang-cun-view'
